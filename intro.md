@@ -1,9 +1,11 @@
-# The Mysterious Journey
-You find yourself standing at a crossroads in a mysterious forest.
+# The Mysterious Castle
+You find yourself standing at a crossroads in a mysterious castle.
 
 What do you do next?
 
-* Item 1
-* Item 2
-* Item 3
-* Item 4
+* [An Internal Link] Go north.
+* [An Internal Link] Go northeast.
+* [An Internal Link] Go northwest.
+* [An Internal Link] Go south.
+* [An Internal Link] Go east.
+* [An Internal Link] Go West.
