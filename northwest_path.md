@@ -1,0 +1,2 @@
+# The Mysterious Dragon
+As you travel Northwest, you ran into a mysterious dragon! The dragon shows no mercy as he spits out fire from his mouth, bringing endless destruction in its' path! You and the army of knights try everything to fend off the dragon, but nothing budges!
