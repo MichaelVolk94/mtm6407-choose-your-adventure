@@ -1,2 +1,5 @@
 # The Wizard
-You travel south and you meet a wizard in his secret room at the southern tower of the castle. You tell him that you we're ordered by the princess to save her kingdom from the evil witch, and the wizard gives you a poison dose as a way to end the witch's treasonous reign of terror. So you set off on your journey to save the princess' kingdom.
+You travel south and you meet a wizard in his secret room at the southern tower of the castle. 
+
+You tell the princess on the north side of the castle is trapped under a spell, and she needs his powers to help break the spell and save the kingdom from the evil witch.
+The wizard gives you a poisonous dart, as a way to end the witch's treasonous reign of terror.
